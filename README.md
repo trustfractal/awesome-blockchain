@@ -4,6 +4,9 @@ List of resources related to blockchain tech.
 ## Articles
 
 ### Introduction
+
+[Blockchain 101 — Decentralization, Cryptoeconomics and ICOs](https://medium.com/@julio_santos/blockchain-101-decentralization-cryptoeconomics-and-icos-eb56f20932dc)
+
 [What can blockchain do for you?](https://hackernoon.com/what-can-blockchain-do-for-you-746ed436a371)
 
 [Smart contracts: a new economic era](https://hackernoon.com/smart-contracts-a-new-economic-era-e95f407d49ef)
