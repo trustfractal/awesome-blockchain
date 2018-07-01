@@ -67,6 +67,13 @@ List of resources related to blockchain tech.
 
 [Cryptoeconomics 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
 
+### Identity
+
+[First impressions with ERC 725 and ERC 735—Identity and Claims](https://hackernoon.com/first-impressions-with-erc-725-and-erc-735-identity-and-claims-4a87ff2509c9)
+> Implementing a simple KYC claim verification for a crowdsale
+
+[Managing Identity with a UI for ERC 725](https://medium.com/originprotocol/managing-identity-with-a-ui-for-erc-725-5c7422b38c09)
+
 ### ICOs
 [The Mechanics of the Token Launch](https://blog.fractalblockchain.com/the-mechanics-of-the-token-launch-92f186a597f5)
 > How to do an ICO? This article is a step-by-step overview of the modules of a token launch and a practical guide how to navigate the complex challenge of launching your own token.
@@ -107,3 +114,5 @@ List of resources related to blockchain tech.
 > Or Why You Should Start Paying Attention to How Investment in App Tokens Impacts Your Protocol Economy
 
 [Fat Protocols](http://www.usv.com/blog/fat-protocols)
+
+[Why Decentralization Matters](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e)
