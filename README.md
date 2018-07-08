@@ -36,6 +36,8 @@ List of resources related to blockchain tech.
 
 [Blockchain Proof-of-Work Is a Decentralized Clock](https://grisha.org/blog/2018/01/23/explaining-proof-of-work/)
 
+[The Mystery Behind Block Time](https://medium.facilelogin.com/the-mystery-behind-block-time-63351e35603a)
+
 ### Cryptoeconomics
 [Getting intimate with Ethereum tokens](https://hackernoon.com/getting-intimate-with-ethereum-tokens-2a1779c4db7b)
 > Purpose, creation, distribution and usage of protocol and application tokens
