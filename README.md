@@ -34,6 +34,8 @@ List of resources related to blockchain tech.
 
 [Building a Blockchain based application](https://medium.com/@davesag/building-a-blockchain-based-application-cc58cf8b2896)
 
+[Blockchain Proof-of-Work Is a Decentralized Clock](https://grisha.org/blog/2018/01/23/explaining-proof-of-work/)
+
 ### Cryptoeconomics
 [Getting intimate with Ethereum tokens](https://hackernoon.com/getting-intimate-with-ethereum-tokens-2a1779c4db7b)
 > Purpose, creation, distribution and usage of protocol and application tokens
