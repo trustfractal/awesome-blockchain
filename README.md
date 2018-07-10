@@ -81,6 +81,9 @@ List of resources related to blockchain tech.
 
 [Managing Identity with a UI for ERC 725](https://medium.com/originprotocol/managing-identity-with-a-ui-for-erc-725-5c7422b38c09)
 
+[Identity on Blockchain](https://medium.facilelogin.com/identity-on-blockchain-part-ii-91dc51cb5beb)
+> Identity/Naming Systems
+
 ### ICOs
 [The Mechanics of the Token Launch](https://blog.fractalblockchain.com/the-mechanics-of-the-token-launch-92f186a597f5)
 > How to do an ICO? This article is a step-by-step overview of the modules of a token launch and a practical guide how to navigate the complex challenge of launching your own token.
